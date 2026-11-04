@@ -27,6 +27,10 @@ Busco aprimorar meus conhecimentos em desenvolvimento de software, Python, Intel
 **Link do site publicado (via GitHub Pages):** 
 https://higorcastrop.github.io/portfolio-higor/
 
+**Link do vídeo:**
+https://drive.google.com/file/d/16YHnQyb0Cap3EdzRiqLH_lFGJSJVmR_Q/view?usp=drive_link
+
+
 ---
 
 Desenvolvido por **Higor Castro**.
