@@ -24,6 +24,9 @@ Atualmente, direciono minha carreira para o desenvolvimento de software, program
 
 Busco aprimorar meus conhecimentos em desenvolvimento de software, Python, Inteligência Artificial e Machine Learning, com interesse futuro em Neuroengenharia e aplicações tecnológicas voltadas à medicina.
 
+**Link do site publicado (via GitHub Pages):** 
+https://higorcastrop.github.io/portfolio-higor/
+
 ---
 
 Desenvolvido por **Higor Castro**.
